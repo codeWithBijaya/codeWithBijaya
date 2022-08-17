@@ -1,6 +1,6 @@
 
 ![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-<h1 align="center">Hi 👋, Nice to see you </h1>
+<h1 align ="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align ="right" alt = "coding" width="400" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -37,5 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbijaya&show_icons=true&locale=en" alt="codewithbijaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithbijaya&" alt="codewithbijaya" /></p>
+
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 17 August, 08:09 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
 
